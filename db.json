@@ -2,7 +2,12 @@
   "users": [
     {
       "id": 1,
-      "user": "julia",
+      "username": "julia",
+      "password": "holaholahola"
+    },
+    {
+      "id": 2,
+      "username": "albert",
       "password": "holaholahola"
     }
   ]
